@@ -1,4 +1,5 @@
 This is a simple kingdom management application for pretend medieval kingdoms. I created it as my semester project for my Programming II class. It uses C#, WinForms, and SQLite.
+
 For instructions on it's usage, see the "Kingdom Manager Instructions.txt" file.
 
 It can be used to track the kingdoms reserves of food and gold, and projects expected income based on the income for that month in previous years. It also lists the amount of food/gold that is needed by the kingdom's troops, just above the entry boxes for inputting the month's numbers:
