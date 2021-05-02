@@ -1,0 +1,12 @@
+The monthly resources, and the troops, are all saved and loaded from an sqlite database.
+
+The food and gold tabs allow you to view different years by selecting the "<" or ">" buttons beside the year label above the graph.
+To add a subsequent or antecedent year, you may click the "+" button on the side corresponding to which direction you want to create the year in.
+The projected resources line is created by taking the average food or gold change for the equivalent month in all the years in the data. (Excluding zeros, which are used to indicate no data being available for that month.)
+To edit the amount of resources, type the new amount into the text box beside the month name, and then tab away, or select any other control.
+
+In the troop tab, the regular levied troops have a green background, and the mercenaries have a gold background. To edit the amount of troops, or the gold cost, enter the new amount in the text box, and tab away, as with the resource text boxes.
+
+To add a new troop to the list, click the "Add troop" button, which will bring up a new window allowing you to set the type, location, and other properties of the troop.
+
+To remove a troop, select the desired troop in the drop-down box, and click the remove button. Note, there is no confirmation on removing a troop, so make sure you select the right one.
