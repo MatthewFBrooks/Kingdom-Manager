@@ -8,3 +8,5 @@ It can be used to track the kingdoms reserves of food and gold, and projects exp
 It can also be used to keep track of troop counts, and whether the troop in question consists of levied troops or mercenaries:
 ![Kingdom Manager - troops display](https://user-images.githubusercontent.com/83547705/116820577-7a682d80-ab3b-11eb-992d-8382f7b72f4f.png)
 ![Kingdom Manager - add troop display](https://user-images.githubusercontent.com/83547705/116820713-f82c3900-ab3b-11eb-9287-f5223452de8a.png)
+
+This project is released under a GPL3+ license.
